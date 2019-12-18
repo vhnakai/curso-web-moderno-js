@@ -9,7 +9,7 @@ function tratarErroELancar(erro){
 }
 function imprimirNomeGritado(obj){
     try{
-        console.log(obj.nome.toUpperCase() + '!!!!')
+        console.log(obj.name.toUpperCase() + '!!!!')
     } catch(e){
         tratarErroELancar(e)
     }finally{
