@@ -1,0 +1,24 @@
+{
+  "name": "curso-web-moderno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhnakai/curso-web-moderno-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhnakai/curso-web-moderno-js/issues"
+  },
+  "homepage": "https://github.com/vhnakai/curso-web-moderno-js#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.2"
+  }
+}

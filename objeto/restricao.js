@@ -12,7 +12,7 @@ console.log(produto)
 
 //object.seal
 
-const pessoa = { nome: 'Juliana', idade: 34}
+const pessoa = { nome: 'Juliana', idade: 24}
 Object.seal(pessoa)
 delete pessoa.nome
 pessoa.nome = 'katia'
