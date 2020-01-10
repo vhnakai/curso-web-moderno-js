@@ -29,10 +29,10 @@ const getTurma = letra => {
 //      nomes = nomes.concat(alunos.map(a => a.nome))/
 //      console.log(nomes)
 //      getTurma('C').then(alunos => {
-    //          nomes = nomes.concat(alunos.map(a => a.nome))
-  //          console.log(nomes)
- //      })
- //   })
+//          nomes = nomes.concat(alunos.map(a => a.nome))
+//          console.log(nomes)
+//      })
+//   })
 //})
 
 Promise.all([getTurma('A'), getTurma('B'), getTurma('C')])
