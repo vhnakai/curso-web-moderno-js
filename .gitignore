@@ -1,8 +1,10 @@
 node_modules
 dom
 gulp
-vue
+vue/exercicios
+vue/node_modules
+vue/qrcode
+vue/sales
 react
 webpack
 ajax
-!vue/calculator
