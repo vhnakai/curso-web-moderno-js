@@ -5,3 +5,4 @@ vue
 react
 webpack
 ajax
+!vue/calculator
