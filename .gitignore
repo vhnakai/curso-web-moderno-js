@@ -2,5 +2,6 @@ node_modules
 dom
 gulp
 vue
+react
 webpack
 ajax
