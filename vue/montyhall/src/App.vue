@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Problema monthyhall</h1>
-    <Door number="1" :hasGift="false" />
+    <Door number="1" :hasGift="true" />
   </div>
 </template>
 
